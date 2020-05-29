@@ -4,6 +4,7 @@
 
 First, download the files and unzip them.
 Next, save the files to your R working directory on your computer.
+Next, set your working directory in R.
 Next, download the R run_analysis.R script into your working directory.
 Run the R script in order to produce a tidy data set.
 
