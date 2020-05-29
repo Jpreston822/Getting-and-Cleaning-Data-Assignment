@@ -1,4 +1,3 @@
-setwd("~/Desktop/R notes/Course 3/Week 4/Assignment") ##First set working directory
 library(dplyr) ##load library that will be needed
 
 ## Import all the data from my working directory
